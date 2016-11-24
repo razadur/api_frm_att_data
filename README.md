@@ -34,3 +34,12 @@ limit:
 +-------------------+
 
 D:\xampp\php\php.exe -f D:\xampp\htdocs\frm_att_data\frmAtt.php
+
+
+
+
+git clone URL_of_github_or_bitbucket
+git status
+git add -A				-A for all, single file name is also allowed
+git commit -m ""		commit with massage
+git push
